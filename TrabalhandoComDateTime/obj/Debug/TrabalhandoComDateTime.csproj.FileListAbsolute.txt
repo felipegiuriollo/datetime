@@ -1,0 +1,7 @@
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\TrabalhandoComDateTime.exe.config
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\TrabalhandoComDateTime.exe
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\bin\Debug\TrabalhandoComDateTime.pdb
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\TrabalhandoComDateTime.csprojAssemblyReference.cache
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\TrabalhandoComDateTime.csproj.CoreCompileInputs.cache
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\TrabalhandoComDateTime.exe
+Z:\Felipe DEV\Curso uDemy CSharp Nelio\DateTime\TrabalhandoComDateTime\TrabalhandoComDateTime\obj\Debug\TrabalhandoComDateTime.pdb
