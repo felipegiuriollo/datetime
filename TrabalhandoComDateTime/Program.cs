@@ -115,14 +115,14 @@ namespace TrabalhandoComDateTime
 
 
             // DIFERENÇA ENTRE 2 DATAS
-            DateTime d1 = new DateTime(2000, 10, 15);
+            //DateTime d1 = new DateTime(2000, 10, 15);
 
-            DateTime d2 = new DateTime(2000, 10, 18);
+            //DateTime d2 = new DateTime(2000, 10, 18);
 
-            TimeSpan t = d2.Subtract(d1);
+            //TimeSpan t = d2.Subtract(d1);
 
-            Console.WriteLine(t);
-            Console.ReadKey();
+            //Console.WriteLine(t);
+            //Console.ReadKey();
 
         }
     }
